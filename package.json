@@ -5,7 +5,7 @@
    "dependencies": {
       "dotnetify": "3.0.0-pre",
       "react": "16.0.0",
-      "react-dom": "16.0.0"
+      "react-dom": "^16.8.6"
    },
    "devDependencies": {
       "@babel/core": "^7.5.4",
