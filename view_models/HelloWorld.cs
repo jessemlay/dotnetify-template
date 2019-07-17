@@ -2,7 +2,7 @@ using System;
 using System.Threading;
 using DotNetify;
 
-namespace helloworld
+namespace groovy
 {
     public class HelloWorld : BaseVM
     {
